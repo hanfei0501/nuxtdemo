@@ -13,7 +13,7 @@
 
       <button v-stream:click="plus$">+</button>
       <h1>count is {{count}}</h1>
-      <nuxt-link to="/two">去第二个页面</nuxt-link>
+      <nuxt-link to="/two">去第二个页面 test by hanfei</nuxt-link>
       <h2 class="subtitle">
         My lovely Nuxt.js project
       </h2>
