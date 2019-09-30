@@ -4,7 +4,7 @@
         <h1 class="title">
           nuxt-a-two
         </h1>
-        <nuxt-link to="/">去第一个页面 test by fhan ddddddddddddddd</nuxt-link>
+        <nuxt-link to="/">去第一个页面 test by fhan</nuxt-link>
       </div>
     </div>
   </div>
